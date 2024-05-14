@@ -81,7 +81,7 @@ element.style{
 #home::before{
     content: "";
     position: absolute;
-    background: url("foody.jpeg") no-repeat center/cover;
+    background: url("food.jpg") no-repeat center/cover;
     height: 642px;
     top: 0px;
     left: 0px;
